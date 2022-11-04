@@ -1,0 +1,12 @@
+name: env_ml
+
+channels:
+- conda-forge
+dependencies:
+- ipykernel
+- pandas
+- scikit-learn
+- numpy
+- jupyterlab
+- matplotlib
+- regex
