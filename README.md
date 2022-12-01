@@ -13,3 +13,6 @@
 2) Demander à l’utilisateur de saisir quelques jeux pc qu’il aime et lui retourner une liste de jeux qu’il pourrait aimer ( et une note associée à chaque jeux)
 3) Basé sur les données dont vous disposez déjà, présentez un protocole d'évaluation permettant de tester la performance de votre approche. Pour cela plusieurs métriques sont attendues, vous devrez les expliquer au client
 4) (bonus) Demander à l’utilisateur des jeux d’une même catégorie qu’il n’a pas du tout aimé, et lui proposer des jeux de cette même catégorie qu’il pourrait apprécier.
+
+## Usage :
+`uvicorn api.main:app`
