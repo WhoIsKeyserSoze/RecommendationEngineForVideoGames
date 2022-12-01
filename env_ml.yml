@@ -10,3 +10,6 @@ dependencies:
 - jupyterlab
 - matplotlib
 - regex
+- seaborn
+- fastapi
+- uvicorn
